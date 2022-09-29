@@ -5,7 +5,7 @@ print("ㅋ"*9)
 
 # ==== len(), \', \", \\ ====
 
-sentence = '나는 김진연 입니다.'
+sentence = '     '
 print(sentence)
 len(sentence) # 11 / ' ' 사이의 한글과 빈칸 . 을 포함한 갯수(리스트의 갯수도 알 수 있음)
 
