@@ -109,4 +109,4 @@ print("나는 {age}살이며, {color}색을 좋아해요.".format(age=18, color=
 
 age = 18
 color = "빨강"
-print(f"나는 {age}살이며, {color}색을 좋아해요.") # 나는 18살이며, 빨강색을 좋아해요.
+print(f"나는 {age}살이며, {color}색을 좋아해요.") # 나는 18살이며, 빨강색을 좋아해요. (f-formatting)
